@@ -11,6 +11,6 @@ We have uploaded the de-identified multitask dataset, **ThyroidMTD**, to Baidu N
 *   **Link**: https://pan.baidu.com/s/1f3Egje45BBbFCjLn0eXsew
 
 The dataset is protected by an access code, and the access to the dataset is granted strictly for research purposes. We welcome inquiries from the research community; please feel free to contact the authors below to request the access code:
-*   liguojun.medai@gmail.com
+*   lgj10107@gmail.com
 *   hemin@him.cas.cn
 *   xudong@zjcc.org.cn
